@@ -9,6 +9,9 @@ Collapsible sidebar with routing (coming next)
 Deployment‑ready structure (Vercel, SSR‑safe)
 - Built by @dashakrolik, styled with MUI.
 
+![Screenshot 1](assets/screenshot1.png)
+![Screenshot 2](assets/screenshot2.png)
+
 ## Getting Started
 
 First, run the development server:
