@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Next.js + MUI + Auth Boilerplate
+This project is a modern Next.js 14+ boilerplate built with:
+
+TypeScript & App Router
+Material UI with dark/light theme support
+Google Fonts (Rubik, monospace)
+NextAuth.js pre‑configured with SessionProvider
+Collapsible sidebar with routing (coming next)
+Deployment‑ready structure (Vercel, SSR‑safe)
+- Built by @dashakrolik, styled with MUI.
 
 ## Getting Started
 
